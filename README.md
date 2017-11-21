@@ -1,0 +1,2 @@
+# hello-sacramento
+beginner repository
